@@ -570,7 +570,7 @@ select:focus {
     position: relative;
     line-height: 50px;
     z-index: 999;
-    background:#f79e01;
+    background: grey;
     padding: 9px 0 8px;
 }
 .top-contact-info {
